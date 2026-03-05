@@ -9,7 +9,7 @@ Specialized in smart contract security and blockchain infrastructure research
 ## Links
 
 Security research portfolio  
-https://github.com/neumoxx/security-research
+https://github.com/neumoxx/neumo-security
 
 Blog  
 https://neumo.hashnode.dev
