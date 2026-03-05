@@ -1,16 +1,21 @@
-## Hi there 👋
+# neumo
 
-<!--
-**neumoxx/neumoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web3 Security Researcher
 
-Here are some ideas to get you started:
+Top 50 Immunefi researcher  
+Lead auditor for multiple protocols in the Stacks ecosystem  
+Specialized in smart contract security and blockchain infrastructure research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+
+Security research portfolio  
+https://github.com/neumoxx/security-research
+
+Blog  
+https://neumo.hashnode.dev
+
+Immunefi  
+https://immunefi.com/profile/neumo/
+
+Twitter  
+https://x.com/neumoXX
